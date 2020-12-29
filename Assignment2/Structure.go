@@ -4,7 +4,7 @@ import (
 	"fmt"
 )
 
-type chocolate struct {
+type Facebook struct {
 	firstName string
 	lastName  string
 	price     int
